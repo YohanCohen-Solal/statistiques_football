@@ -1,23 +1,23 @@
-﻿Nom du joueur;Postes;Arrêts;Nombre de but;Nombre de passes décisives;Occasion;Carton jaune;Carton rouge;Minutes jouées;Nombre de matchs joués
-Thierry Henry;Attaquant;0;3;1;6;1;1;367;
-David Trezeguet;Attaquant;0;1;1;10;0;0;312;
-Christophe Dugarry;Attaquant;0;1;1;3;0;0;118;
-Stéphane Guivarch;Attaquant;0;0;0;9;0;0;268;
-Vincent Candela;Défenseur;0;0;0;0;1;0;90;
-Lilian Thuram;Défenseur;0;2;0;3;0;0;594;
-Laurent Blanc;Défenseur;0;1;0;3;0;0;488;
-Frank Lebœuf;Défenseur;0;0;0;0;0;1;193;
-Bixente Lizarazu;Défenseur;0;1;1;1;1;0;594;
-Marcel Desailly;Défenseur;0;0;0;1;0;0;662;
-Lionel Charbonnier;Gardien de but;0;0;0;0;0;0;;
-Fabien Barthez;Gardien de but;27;0;0;0;1;0;684;
-Bernard Lama;Gardien de but;0;0;0;0;0;0;;
-Zinédine Zidane;Milieu de terrain;0;2;1;14;0;0;460;
-Youri Djorkaeff;Milieu de terrain;0;1;3;10;1;0;591;
-Robert Pirès;Milieu de terrain;0;0;0;1;1;0;131;
-Patrick Vieira;Milieu de terrain;0;0;1;3;0;0;106;
-Emmanuel Petit;Milieu de terrain;0;2;1;5;1;0;506;
-Christian Karembeu;Milieu de terrain;0;0;0;2;0;0;243;
-Bernard Diomède;Milieu de terrain;0;0;0;1;1;0;224;
-Alain Boghossian;Milieu de terrain;0;0;0;0;1;1;211;
-Didier Deschamps;Milieu de terrain;0;0;0;2;3;0;594;
+﻿Nom du joueur;Poste;Arrêts;Nombre de but;Nombre de passes décisives;Occasion;Carton jaune;Carton rouge;Minutes jouées
+Thierry Henry;Attaquant;0;3;1;6;1;1;367
+David Trezeguet;Attaquant;0;1;1;10;0;0;312
+Christophe Dugarry;Attaquant;0;1;1;3;0;0;118
+Stéphane Guivarch;Attaquant;0;0;0;9;0;0;268
+Vincent Candela;Défenseur;0;0;0;0;1;0;90
+Lilian Thuram;Défenseur;0;2;0;3;0;0;594
+Laurent Blanc;Défenseur;0;1;0;3;0;0;488
+Frank Lebœuf;Défenseur;0;0;0;0;0;1;193
+Bixente Lizarazu;Défenseur;0;1;1;1;1;0;594
+Marcel Desailly;Défenseur;0;0;0;1;0;0;662
+Lionel Charbonnier;Gardien de but;0;0;0;0;0;0;
+Fabien Barthez;Gardien de but;27;0;0;0;1;0;684
+Bernard Lama;Gardien de but;0;0;0;0;0;0;
+Zinédine Zidane;Milieu de terrain;0;2;1;14;0;0;460
+Youri Djorkaeff;Milieu de terrain;0;1;3;10;1;0;591
+Robert Pirès;Milieu de terrain;0;0;0;1;1;0;131
+Patrick Vieira;Milieu de terrain;0;0;1;3;0;0;106
+Emmanuel Petit;Milieu de terrain;0;2;1;5;1;0;506
+Christian Karembeu;Milieu de terrain;0;0;0;2;0;0;243
+Bernard Diomède;Milieu de terrain;0;0;0;1;1;0;224
+Alain Boghossian;Milieu de terrain;0;0;0;0;1;1;211
+Didier Deschamps;Milieu de terrain;0;0;0;2;3;0;594
